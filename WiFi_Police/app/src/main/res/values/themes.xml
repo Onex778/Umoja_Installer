@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WiFi_Police" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!-- Change the text color of the app bar title -->
+        <item name="android:titleTextColor">@color/white</item>
+        <!-- Change the color of the app bar overflow menu icon -->
+        <item name="android:textColorSecondary">@color/white</item>
+    </style>
+
+    <style name="Theme.WiFi_Police" parent="Base.Theme.WiFi_Police" />
+</resources>
